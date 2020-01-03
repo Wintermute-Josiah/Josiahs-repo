@@ -32,4 +32,4 @@ async def on_ready():
     print("Logged in as " + client.user.name)
 
 
-client.run(TOKEN)
+client.run()
